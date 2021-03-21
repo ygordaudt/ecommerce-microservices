@@ -1,0 +1,2 @@
+### Sobre
+Solução de e-commerce com a arquitetura de microsserviços e aplicação da integração entre eles orientada a eventos com Apache Kafka e garantia da compatibilidade entre a comunicação dos microsserviços com Schema Registry. Para isso, foi utilizado a linguagem Java com a stack do Spring (Spring Boot, Spring Cloud Streams).
